@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:social_media/utils/type_def.dart';
+import 'package:repliq/utils/type_def.dart';
 
 class AuthInput extends StatelessWidget {
   final String hintText, label;

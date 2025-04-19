@@ -5,10 +5,10 @@ import 'package:get/get_core/src/get_main.dart';
 import 'package:get/get_instance/get_instance.dart';
 import 'package:get/get_navigation/get_navigation.dart';
 import 'package:get/get_state_manager/src/rx_flutter/rx_obx_widget.dart';
-import 'package:social_media/cantrollers/auth_cantroller.dart';
-import 'package:social_media/routes/route_names.dart';
-import 'package:social_media/utils/style/button_styles.dart';
-import 'package:social_media/widgets/auth_input.dart';
+import 'package:repliq/controllers/auth_cantroller.dart';
+import 'package:repliq/routes/route_names.dart';
+import 'package:repliq/utils/style/button_styles.dart';
+import 'package:repliq/widgets/auth_input.dart';
 
 class Register extends StatefulWidget {
   const Register({super.key});
@@ -60,11 +60,11 @@ class _RegisterState extends State<Register> {
               children: [
                 Image.asset(
                   "assets/images/logo.png",
-                  width: 60,
-                  height: 60,
+                  width: 180,
+                  height: 180,
                 ),
                 const SizedBox(
-                  height: 10,
+                  height: 20,
                 ),
                 const Align(
                   alignment: Alignment.topLeft,

@@ -1,0 +1,18 @@
+{
+    "id": 4,
+    "content":"hello",
+    "image":"social_media/a1f47e4b-acd6-497f-a49b-9e88cd66a3e2/1f000bf1-6816-6e20-8939-e175bd9c91b0",
+    "created_at": "2025-03-14 10:28:38.00018+00" ,
+    "comment_count": 0,
+    "like_count": 0,
+    "user_id": "d70ceb92-520a-496b-b566-3e779b662c2c",
+    "user": {
+        "email": "mayank@gmail.com",
+        "metadata": {
+            "name" : "Mayank",
+            "image": "social_media/a1f47e4b-acd6-497f-a49b-9e88cd66a3e2/profile.jpg",
+            "description" : "Hey i am Mayank"
+        }
+    }
+        
+}
